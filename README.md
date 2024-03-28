@@ -4,7 +4,7 @@
 
 * [Introduction]
 * [Functions, Variables](https://github.com/asif-munshi/cs50-python/tree/main/functions_and_variables)
-* [Conditionals]
+* [Conditionals](https://github.com/asif-munshi/cs50-python/tree/main/conditionals)
 * [Loops]
 * [Exceptions]
 * [Libraries]
@@ -13,12 +13,3 @@
 * [Regular Expressions]
 * [Object-Oriented Programming]
 * [Et Cetera]
-
-
-
-
-
-
-
-
-
