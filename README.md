@@ -7,7 +7,7 @@
 - [Conditionals](https://github.com/asif-munshi/cs50-python/tree/main/conditionals)
 - [Loops](https://github.com/asif-munshi/cs50-python/tree/main/loops)
 - [Exceptions](https://github.com/asif-munshi/cs50-python/tree/main/exceptions)
-- [Libraries]
+- [Libraries](https://github.com/asif-munshi/cs50-python/tree/main/libraries)
 - [Unit Tests]
 - [File I/O]
 - [Regular Expressions]
